@@ -1,7 +1,6 @@
 <?php
 
 /**
- * The plugin bootstrap file
  *
  *
  *
@@ -37,6 +36,7 @@ if ( ! defined( 'WPINC' ) ) {
  */
 function run_wp_generator_remover_dawsun() {
 
+	// remove WP Generator Meta Tag
 	remove_action('wp_head', 'wp_generator');
 
 }
