@@ -34,11 +34,4 @@ Yes, its secure practice as hackers will not know what version you are using on 
 
 = I have installed the plugin, whats next? =
 
-Just install the plugin and active it, thats it, no further settings are needed.
-
-
-== Changelog ==
-
-= 1.0 =
-* A change since the previous version.
-* Another change.
+Just install the plugin and activate it, thats it, no further settings are needed.
