@@ -3,18 +3,25 @@ Contributors: itpixelz
 Donate link: http://www.dawsun.com/
 Tags: security, wp generator, generator meta, wp generator meta remove
 Requires at least: 3.0.1
-Tested up to: 4.8.3
-Stable tag: 4.8.3
+Tested up to: 4.9
+Stable tag: 4.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Hide your WordPress version invisible to make more secure by not displaying the version.
+Hide/Remove WordPress Generator Meta, Hide/Remove Stylesheet Version, Hide/Remove Javascript Version
 
 == Description ==
 
-Hide your WordPress version invisible to make more secure by not displaying the version.
-This plugin hides this code from head section `<meta name="generator" content="WordPress x.x.x" />` which let public users know about the version of your WordPress on the website.
+Hide and **Remove WordPress Generator Meta**, Hide and Remove Stylesheet Version, Hide and Remove Javascript Version
 
+No further security threat, as hacker will not know what WordPress version you are using even if your WordPress installation is outdated.
+
+This plugin is a must have plugin for your website to ensure the security of your website.
+
+You can enable/disable from Settings, enabled by default
+<ol><li>Remove Meta Generator Tag</li>
+<li>Remove Version from Stylesheet</li>
+<li>Remove Version from Script</li></ol>
 
 == Installation ==
 
@@ -34,4 +41,4 @@ Yes, its secure practice as hackers will not know what version you are using on 
 
 = I have installed the plugin, whats next? =
 
-Just install the plugin and activate it, thats it, no further settings are needed.
+Just install the plugin and activate it, thats it.
